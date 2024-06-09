@@ -23,6 +23,7 @@ body {
 input {
   width: 300px;
   border: none;
+  outline: none;
   padding: 18px;
   margin: 7px;
   background-color: transparent;
